@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insert_Update_Delete", "sqlBaglanti_Inset_Update_Delete\Insert_Update_Delete.csproj", "{92A776B5-01A8-45DD-82CA-414B9A54D20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A776B5-01A8-45DD-82CA-414B9A54D20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A776B5-01A8-45DD-82CA-414B9A54D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A776B5-01A8-45DD-82CA-414B9A54D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A776B5-01A8-45DD-82CA-414B9A54D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF6981E-0FBA-4923-92F3-01A70EA05810}
+	EndGlobalSection
+EndGlobal
